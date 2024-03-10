@@ -2,6 +2,7 @@ import time
 import numpy as np
 
 i = 0
+print("numpy sort")
 for idx in range (1, 11):
     file = 'test_' + str(idx) + '.txt'
     with open(file, 'r') as f:
@@ -13,5 +14,5 @@ for idx in range (1, 11):
             start_time = time.time()  
             test = np.sort(test)
             end_time = time.time()
-            length = (end_time - start_time) * 1000
+            length = round((end_time - start_time) * 1000)
             print(f"Sorting time of test {i}: {length} ms")

@@ -1,0 +1,55 @@
+stl sort
+Sorting time of test 1 : 73 ms
+Sorting time of test 2 : 59 ms
+Sorting time of test 3 : 226 ms
+Sorting time of test 4 : 223 ms
+Sorting time of test 5 : 223 ms
+Sorting time of test 6 : 224 ms
+Sorting time of test 7 : 226 ms
+Sorting time of test 8 : 226 ms
+Sorting time of test 9 : 225 ms
+Sorting time of test 10 : 224 ms
+heap sort
+Sorting time of test 1 : 326 ms
+Sorting time of test 2 : 305 ms
+Sorting time of test 3 : 289 ms
+Sorting time of test 4 : 286 ms
+Sorting time of test 5 : 287 ms
+Sorting time of test 6 : 285 ms
+Sorting time of test 7 : 285 ms
+Sorting time of test 8 : 287 ms
+Sorting time of test 9 : 285 ms
+Sorting time of test 10 : 285 ms
+merge sort
+Sorting time of test 1 : 4 ms
+Sorting time of test 2 : 77 ms
+Sorting time of test 3 : 162 ms
+Sorting time of test 4 : 162 ms
+Sorting time of test 5 : 162 ms
+Sorting time of test 6 : 162 ms
+Sorting time of test 7 : 162 ms
+Sorting time of test 8 : 162 ms
+Sorting time of test 9 : 161 ms
+Sorting time of test 10 : 163 ms
+quick sort
+Sorting time of test 1 : 16 ms
+Sorting time of test 2 : 19 ms
+Sorting time of test 3 : 129 ms
+Sorting time of test 4 : 127 ms
+Sorting time of test 5 : 129 ms
+Sorting time of test 6 : 127 ms
+Sorting time of test 7 : 129 ms
+Sorting time of test 8 : 128 ms
+Sorting time of test 9 : 131 ms
+Sorting time of test 10 : 129 ms
+numpy sort
+Sorting time of test 1: 15 ms
+Sorting time of test 2: 19 ms
+Sorting time of test 3: 98 ms
+Sorting time of test 4: 97 ms
+Sorting time of test 5: 99 ms
+Sorting time of test 6: 98 ms
+Sorting time of test 7: 100 ms
+Sorting time of test 8: 100 ms
+Sorting time of test 9: 100 ms
+Sorting time of test 10: 97 ms
